@@ -1,6 +1,6 @@
 # Project 6 - *TalkGlobal*
 
-Submitted by: **Biraj Dahal**
+**Biraj Dahal**
 
 TalkGlobal is a IOS native feel app that allows you to translate between languages, and save these translations for future reference. Starting now, you can actually Talk GLOBALLY!
 
@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+![Simulator Screen Recording - iPhone 16 Pro - 2025-03-24 at 15 07 40](https://github.com/user-attachments/assets/9daaecf0-8ab7-4bfc-9fbc-968256e655e2)
 
 
 
